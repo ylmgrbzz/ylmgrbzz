@@ -1,7 +1,7 @@
 ### Hi there I'm Yalım 👋
 
 <p align="middle"><img src="https://media1.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif?cid=ecf05e47u1e45ix7bgnz62x51ywyr81hvq3chm1tnwce9p9l&rid=giphy.gif&ct=g" width="200px"></h2> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ertgrulyksk&label=Profile%20views&color=0e75b6&style=flat" alt="ertgrulyksk" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ertgrulyksk&label=Profile%20views&color=0e75b6&style=flat" alt="ylmgrbzz" /> </p>
 
 ## I'm a Full Stack Developer !
 
