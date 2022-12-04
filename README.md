@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there I'm Yalım 👋
 
-<!--
-**ylmgrbzz/ylmgrbzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Full Stack Developer !
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...dsd
-- 🌱 I’m currently learning ...dsds
-- 👯 I’m looking to collaborate on ...dsdsd
-- 🤔 I’m looking for help with ...sdsd
-- 💬 Ask me about ...sdsdsd
-- 📫 How to reach me: ...dsds
-- 😄 Pronouns: ...dsdsd
-- ⚡ Fun fact: ...sdsd
--->
+- 🔭 I’m currently working on Data Science, Machine Learning, Deep Learning, Computer Vision OpenCV, Web Development
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
