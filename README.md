@@ -61,7 +61,10 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" width="40" height="40"/> 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png" width="40" height="40"/> 
  <img src="https://files.cdata.com/media/media/i3nhanbw/20191018-dynamodb-performance-0.png" width="40" height="40"/> 
- <img src="http://ww1.prweb.com/prfiles/2017/04/12/15013279/gI_62552_200x200_360%20logo.png" width="40" height="40"/> 
+ <img src="http://ww1.prweb.com/prfiles/2017/04/12/15013279/gI_62552_200x200_360%20logo.png" width="40" height="40"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" width="40" height="40"/> 
+ <img src="https://www.snmpcenter.com/wp-content/uploads/2016/10/RESTful-API-logo-for-light-bg.png" width="40" height="40"/> 
+
 </p>
 <h3 align="left">Tools & Other:</h3>
 <p align="left">
@@ -76,6 +79,6 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Apache_kafka_wordtype.svg/2560px-Apache_kafka_wordtype.svg.png" width="40" height="40"/> 
  <img src="https://herve.beraud.io/images/blog/rabbitmq.png" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.png" width="40" height="40"/> 
- <img src="https://miro.medium.com/max/300/0*goJuBKoyL-zZX4RB.png" width="40" height="40"/> 
+ <img src="https://www.snmpcenter.com/wp-content/uploads/2016/10/RESTful-API-logo-for-light-bg.png" width="40" height="40"/> 
 
 </p>
