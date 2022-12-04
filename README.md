@@ -48,7 +48,6 @@
   <img src="https://bentego.com/wp-content/uploads/2022/03/xx.png" width="40" height="40"/> 
 
   <img src="https://img.freepik.com/premium-vector/artificial-intelligence-concept-circuit-board-background-with-ai-logo-illustration_257312-1368.jpg?w=2000" width="40" height="40"/> 
- <img src="https://miro.medium.com/max/964/0*tVCene42rgUTNv9Q.png" width="40" height="40"/> 
 </p>
 <h3 align="left">Backend Languagesand Databases:</h3>
 <p align="left">
