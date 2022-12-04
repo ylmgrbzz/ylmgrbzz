@@ -78,5 +78,9 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Apache_kafka_wordtype.svg/2560px-Apache_kafka_wordtype.svg.png" width="40" height="40"/> 
  <img src="https://herve.beraud.io/images/blog/rabbitmq.png" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.png" width="40" height="40"/> 
-
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ertgrulyksk&show_icons=true&locale=en" alt="ertgrulyksk" /></p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ertgrulyksk&border_radius=80)](https://git.io/streak-stats)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ertgrulyksk&show_icons=true&locale=en&layout=compact" alt="ertgrulyksk" /></p>
