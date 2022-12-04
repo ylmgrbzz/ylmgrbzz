@@ -83,5 +83,5 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ylmgrbzz&border_radius=80)](https://git.io/streak-stats)
 
-<p>![ylmgrbzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ylmgrbzz&theme=dark&show_icons=true)
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ylmgrbzz&layout=compact)](https://github.com/ylmgrbzz/github-readme-stats)
+
