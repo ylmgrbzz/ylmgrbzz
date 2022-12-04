@@ -79,6 +79,5 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Apache_kafka_wordtype.svg/2560px-Apache_kafka_wordtype.svg.png" width="40" height="40"/> 
  <img src="https://herve.beraud.io/images/blog/rabbitmq.png" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.png" width="40" height="40"/> 
- <img src="https://www.snmpcenter.com/wp-content/uploads/2016/10/RESTful-API-logo-for-light-bg.png" width="40" height="40"/> 
 
 </p>
