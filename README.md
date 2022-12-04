@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on Data Science, Machine Learning, Deep Learning, Computer Vision OpenCV, Web Development
 -  📫 How to reach me: **ylmgrbz@gmail.com**
-
-### Connect with me:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
