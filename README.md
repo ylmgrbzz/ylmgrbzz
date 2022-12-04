@@ -23,6 +23,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="SASS" width="40" height="40"/>
 <img src="https://www.drupal.org/files/project-images/screenshot_361.png" alt="TailwindCSS" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="40" height="40"/>
+ <img src="https://miro.medium.com/max/300/0*goJuBKoyL-zZX4RB.png" width="40" height="40"/> 
+
 </p>
 <h3 align="left">Frameworks:</h3>
 <p align="left">
@@ -60,7 +62,20 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png" width="40" height="40"/> 
  <img src="https://files.cdata.com/media/media/i3nhanbw/20191018-dynamodb-performance-0.png" width="40" height="40"/> 
  <img src="http://ww1.prweb.com/prfiles/2017/04/12/15013279/gI_62552_200x200_360%20logo.png" width="40" height="40"/> 
-  <img src="https://res.cloudinary.com/dyd911kmh/image/upload/v1640050215/image27_frqkzv.png" width="40" height="40"/> 
-
+</p>
+<h3 align="left">Tools & Other:</h3>
+<p align="left">
+<img src="https://w7.pngwing.com/pngs/147/242/png-transparent-amazon-com-logo-amazon-web-services-amazon-elastic-compute-cloud-amazon-virtual-private-cloud-cloud-computing-text-orange-logo.png" width="40" height="40"/>
+<img src="https://imonezaprod.blob.core.windows.net/wp-assets/2014/09/azure-cloud-logo.png" width="40" height="40"/> 
+ <img src="https://www.gstatic.com/devrel-devsite/prod/v04993a285e47ce7ae4bb513179c3071d4f2a8975b8f303b510c516323adf1b16/cloud/images/social-icon-google-cloud-1200-630.png" width="40" height="40"/> 
+ <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="40" height="40"/> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" width="40" height="40"/> 
+ <img src="https://www.seguetech.com/wp-content/uploads/2015/08/segue-blog-segue-blog-problems-adopting-agile-development.png" width="40" height="40"/> 
+ <img src="https://www.zend.com/sites/default/files/image/2019-09/logo-jenkins.jpg" width="40" height="40"/> 
+ <img src="https://download.logo.wine/logo/Redis/Redis-Logo.wine.png" width="40" height="40"/> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Apache_kafka_wordtype.svg/2560px-Apache_kafka_wordtype.svg.png" width="40" height="40"/> 
+ <img src="https://herve.beraud.io/images/blog/rabbitmq.png" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.png" width="40" height="40"/> 
+ <img src="https://miro.medium.com/max/300/0*goJuBKoyL-zZX4RB.png" width="40" height="40"/> 
 
 </p>
