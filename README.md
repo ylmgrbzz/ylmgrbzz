@@ -50,7 +50,7 @@
 </p>
 <h3 align="left">Backend Languagesand Databases:</h3>
 <p align="left">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc2Y2gmQB5zuaBd1AfN_AyEgoTgxPF65i7GwlvrbnnP_RUlubieG19WFnonCtS4ZfAox4&usqp=CAU" width="40" height="40"/>
+<img src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png" width="40" height="40"/>
 <img src="https://my.trocaire.edu/wp-content/uploads/2016/12/pl-sql.png" width="40" height="40"/> 
  <img src="https://expressjs.com/images/express-facebook-share.png" width="40" height="40"/> 
  <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" width="40" height="40"/> 
