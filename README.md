@@ -36,6 +36,5 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" width="40" height="40"/> 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="40" height="40"/> 
  <img src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" width="40" height="40"/> 
- <img src=" https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png
-" width="40" height="40"/> 
+ <img src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" width="40" height="40"/> 
 </p>
