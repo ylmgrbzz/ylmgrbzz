@@ -55,21 +55,12 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png" width="40" height="40"/> 
  <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="40" height="40"/> 
  <img src="https://w7.pngwing.com/pngs/173/36/png-transparent-postgresql-logo-computer-software-database-open-source-s-text-head-snout.png" width="40" height="40"/> 
- <img src="" width="40" height="40"/> 
  <img src="https://sybyl.com/wp-content/uploads/2019/11/Oracle-Logo-For-Website.png" width="40" height="40"/> 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" width="40" height="40"/> 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png" width="40" height="40"/> 
  <img src="https://files.cdata.com/media/media/i3nhanbw/20191018-dynamodb-performance-0.png" width="40" height="40"/> 
- <img src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" width="40" height="40"/> 
+ <img src="http://ww1.prweb.com/prfiles/2017/04/12/15013279/gI_62552_200x200_360%20logo.png" width="40" height="40"/> 
   <img src="https://res.cloudinary.com/dyd911kmh/image/upload/v1640050215/image27_frqkzv.png" width="40" height="40"/> 
- <img src="https://miro.medium.com/max/964/0*tVCene42rgUTNv9Q.png" width="40" height="40"/> 
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" width="40" height="40"/>
-  <img src="https://bentego.com/wp-content/uploads/2022/03/xx.png" width="40" height="40"/> 
 
-  <img src="https://img.freepik.com/premium-vector/artificial-intelligence-concept-circuit-board-background-with-ai-logo-illustration_257312-1368.jpg?w=2000" width="40" height="40"/> 
- <img src="https://miro.medium.com/max/964/0*tVCene42rgUTNv9Q.png" width="40" height="40"/> 
 
 </p>
