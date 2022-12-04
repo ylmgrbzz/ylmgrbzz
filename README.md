@@ -45,7 +45,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" width="40" height="40"/>
   <img src="https://bentego.com/wp-content/uploads/2022/03/xx.png" width="40" height="40"/> 
 
-  <img src="https://miro.medium.com/max/964/0*tVCene42rgUTNv9Q.png" width="40" height="40"/> 
+  <img src="https://www.shutterstock.com/shutterstock/photos/1417528535/display_1500/stock-vector-ai-artificial-intelligence-logo-in-hands-artificial-intelligence-and-machine-learning-concept-1417528535.jpg" width="40" height="40"/> 
  <img src="https://miro.medium.com/max/964/0*tVCene42rgUTNv9Q.png" width="40" height="40"/> 
 
 
