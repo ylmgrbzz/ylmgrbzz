@@ -52,14 +52,14 @@
 <p align="left">
 <img src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure.png" width="40" height="40"/>
 <img src="https://my.trocaire.edu/wp-content/uploads/2016/12/pl-sql.png" width="40" height="40"/> 
- <img src="https://expressjs.com/images/express-facebook-share.png" width="40" height="40"/> 
- <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" width="40" height="40"/> 
- <img src="https://caglarbostanci.com.tr/wp-content/uploads/2017/06/jquery-kucuk-icerik-caglarbostanci-com-tr.png" width="40" height="40"/> 
- <img src="https://www.fullstackpython.com/img/logos/django.png" width="40" height="40"/> 
- <img src="https://cdn.filestackcontent.com/GgTFAbNTtiA09pWpwLAz" width="40" height="40"/> 
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png" width="40" height="40"/> 
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="40" height="40"/> 
- <img src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" width="40" height="40"/> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1280px-SQLite370.svg.png" width="40" height="40"/> 
+ <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width="40" height="40"/> 
+ <img src="https://w7.pngwing.com/pngs/173/36/png-transparent-postgresql-logo-computer-software-database-open-source-s-text-head-snout.png" width="40" height="40"/> 
+ <img src="" width="40" height="40"/> 
+ <img src="https://sybyl.com/wp-content/uploads/2019/11/Oracle-Logo-For-Website.png" width="40" height="40"/> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" width="40" height="40"/> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png" width="40" height="40"/> 
+ <img src="https://files.cdata.com/media/media/i3nhanbw/20191018-dynamodb-performance-0.png" width="40" height="40"/> 
  <img src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" width="40" height="40"/> 
   <img src="https://res.cloudinary.com/dyd911kmh/image/upload/v1640050215/image27_frqkzv.png" width="40" height="40"/> 
  <img src="https://miro.medium.com/max/964/0*tVCene42rgUTNv9Q.png" width="40" height="40"/> 
