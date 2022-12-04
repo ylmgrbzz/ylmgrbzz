@@ -22,7 +22,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="SASS" width="40" height="40"/>
 <img src="https://www.drupal.org/files/project-images/screenshot_361.png" alt="TailwindCSS" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="40" height="40"/>
+<img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg" width="40" height="40"/>
 </p>
 <h3 align="left">Frameworks:</h3>
 <p align="left">
@@ -45,7 +45,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" width="40" height="40"/>
   <img src="https://bentego.com/wp-content/uploads/2022/03/xx.png" width="40" height="40"/> 
 
-  <img src="https://www.shutterstock.com/shutterstock/photos/1417528535/display_1500/stock-vector-ai-artificial-intelligence-logo-in-hands-artificial-intelligence-and-machine-learning-concept-1417528535.jpg" width="40" height="40"/> 
+  <img src="https://img.freepik.com/premium-vector/artificial-intelligence-concept-circuit-board-background-with-ai-logo-illustration_257312-1368.jpg?w=2000" width="40" height="40"/> 
  <img src="https://miro.medium.com/max/964/0*tVCene42rgUTNv9Q.png" width="40" height="40"/> 
 
 
