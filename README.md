@@ -21,7 +21,6 @@
 </a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="SASS" width="40" height="40"/>
 <img src="https://www.drupal.org/files/project-images/screenshot_361.png" alt="TailwindCSS" width="40" height="40"/>
-<img src="https://yt3.ggpht.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s900-c-k-c0x00ffffff-no-rj
-" alt="TailwindCSS" width="40" height="40"/>
+<img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="TailwindCSS" width="40" height="40"/>
 
 </p>
