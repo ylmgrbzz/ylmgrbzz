@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ertgrulyksk&label=Profile%20views&color=0e75b6&style=flat" alt="ylmgrbzz" /> </p>
 
 ## I'm a Full Stack Developer !
+<!-- Bu bir HTML yorum satırıdır. -->
 
 - 🎓 I’m currently studying Msc Computer Engineering at Yildiz Technical University.
 - 🔭 I’m currently working on Data Science, Machine Learning, Deep Learning, Computer Vision OpenCV, Web Development, Front-end and Back-end Projects
