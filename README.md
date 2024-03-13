@@ -7,8 +7,9 @@
 
 - 🎓 I’m currently studying Msc Computer Engineering at Yildiz Technical University.
 - 🔭 I’m currently working on Data Science, Machine Learning, Deep Learning, Computer Vision OpenCV, Web Development, Front-end and Back-end Projects
-- 🌱 I’m currently learning TypeScript
+  - 🌱 I’m currently learning TypeScript
 - 🥅 2023 Goals: Learn more about Data Science and  Web3
+<!-- Bu bir HTML yorum satırıdır. -->
 
 - 📫 How to reach me: **ylmgrbz@gmail.com**
 <h3 align="left">Connect with me:</h3>
